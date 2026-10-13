@@ -1,2 +1,3 @@
+/Build/** -text
 *.bin -text
 *.unityweb -text
